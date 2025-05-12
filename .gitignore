@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+.idea
+.idea/
+/.idea/
+/.idea/*
+.idea/*
+first_java_project.iml
